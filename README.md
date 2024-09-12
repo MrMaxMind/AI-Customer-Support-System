@@ -27,10 +27,10 @@ This project leverages a GPT-2 model fine-tuned with LoRa adapters to assist in 
 ## Contents
 
 - **app.py**: Flask backend that handles the model loading, input processing, and prediction API.
-- **models/**: Contains the fine-tuned GPT-2 model with LoRa adapters.
+- **models/** : Contains the fine-tuned GPT-2 model with LoRa adapters.
 - **templates/index.html**: Frontend HTML for user input and response display.
-- **static/css/style.css**: Custom styling for the web interface.
-- **static/js/app.js**: JavaScript for handling frontend interactions and AJAX requests.
+- **static/style.css**: Custom styling for the web interface.
+- **static/app.js**: JavaScript for handling frontend interactions and AJAX requests.
 - **Dockerfile**: Docker configuration for deploying the app on Render.
 - **requirements.txt**: Lists the required dependencies to run the project.
 
