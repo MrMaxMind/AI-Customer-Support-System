@@ -1,4 +1,4 @@
-# AI Customer Support System
+# **AI Customer Support System**
 
 Welcome to the AI Customer Support System repository. This project utilizes a fine-tuned GPT-2 model with LoRa adapters to provide automated responses to customer queries. It features a web-based interface allowing users to input their queries and receive AI-generated responses in real time. Below is an overview of the project, its features, and instructions for running and deploying the app.
 
@@ -8,13 +8,15 @@ Welcome to the AI Customer Support System repository. This project utilizes a fi
   <img src="./AI_image.png" alt="AI Customer Support System" style="border:none;">
 </div>
 
-## Overview
+---
+
+## 🚀 **Overview**
 
 This project leverages a GPT-2 model fine-tuned with LoRa adapters to assist in customer support automation. It allows users to input queries related to products or services, and the system generates relevant responses based on the input. The project features a Flask-based backend, an interactive Bootstrap frontend, and model deployment through Render using Docker.
 
 ---
 
-## Features
+## ✨ **Features**
 
 - **LoRa Fine-Tuning**: GPT-2 model is fine-tuned using Low-Rank Adaptation (LoRa) for better customization and performance.
 - **Interactive Web Interface**: A user-friendly web interface built with Bootstrap, allowing real-time user interaction.
@@ -24,7 +26,7 @@ This project leverages a GPT-2 model fine-tuned with LoRa adapters to assist in 
 
 ---
 
-## Contents
+## 📂 **Contents**
 
 - **app.py**: Flask backend that handles the model loading, input processing, and prediction API.
 - **models/** : Contains the fine-tuned GPT-2 model with LoRa adapters.
@@ -36,7 +38,7 @@ This project leverages a GPT-2 model fine-tuned with LoRa adapters to assist in 
 
 ---
 
-## Getting Started
+## 🛠️  **Getting Started**
 
 1. **Clone the repository**:
    ```bash
@@ -54,7 +56,7 @@ This project leverages a GPT-2 model fine-tuned with LoRa adapters to assist in 
 
 ---
 
-## Deployment Instructions
+## 🚢 **Deployment Instructions**
 
 ### 1. Model Fine-Tuning and Preparation: 
 
@@ -76,7 +78,7 @@ Fine-tune the **GPT-2** model using the LoRa method and save the model files (`a
 
 ---
 
-## Key Insights
+## 🔍 **Key Insights**
 
 - Successfully implemented LoRa fine-tuning for a GPT-2 model to handle customer queries.
 - Deployed a fast and efficient customer support system using Docker and Render.
@@ -84,7 +86,7 @@ Fine-tune the **GPT-2** model using the LoRa method and save the model files (`a
 
 ---
 
-## Tools and Libraries
+## 🛠️ **Tools and Libraries**
 
 - `Flask`: For the web backend and API routing.
 - `Hugging Face Transformers`: For model loading and text generation.
@@ -95,9 +97,11 @@ Fine-tune the **GPT-2** model using the LoRa method and save the model files (`a
 
 ---
 
-## Contributing
+## 🤝 **Contributing**
 If you have suggestions or improvements, feel free to open an issue or create a pull request.
 
 ---
 
-## *Thank you for visiting! If you find this project useful, please consider starring the repository. Happy coding!*
+## ⭐ **Thank You!**
+
+Thank you for visiting! If you find this project useful, please consider starring the repository. Happy coding!
